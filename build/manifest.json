@@ -1,0 +1,17 @@
+{
+  "short_name": "PWA ExpenseTracker",
+  "name": "Expense Tracker PWA",
+  "app_name": "Expense Tracker PWA",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": "./",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
